@@ -11,7 +11,16 @@
 
 ### Minhas Tecnologias
 
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg)
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="100px">
+</p>
+
+-----------
+
+
 
 <!-- Cabeçalhos
 
@@ -78,3 +87,4 @@ Here are some ideas to get you started:
 
 [def]: https://static.itdg.com.br/images/360-240/ec2a5e38702c60bf1ace0b5f1c8e9415/shutterstock-739787011.jpg
 [def2]: https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif
+[def3]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
